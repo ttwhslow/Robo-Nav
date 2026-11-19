@@ -5,4 +5,4 @@ Robô autônomo usando a plataforma Arduino que consegue perceber o ambiente e s
 ## Autor 
 Agatha
 ## Simulador do Projeto
-[Tinkercad](https://www.tinkercad.com/things/5HqaKvOdaL0-robo-chappiex)
+[Tinkercad](https://www.tinkercad.com/things/jvZ10QegdJu-robo-nav)
